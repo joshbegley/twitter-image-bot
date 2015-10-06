@@ -1,0 +1,3 @@
+/home/twitter-image-bot/img/1.jpg
+/home/twitter-image-bot/img/2.jpg
+/home/twitter-image-bot/img/3.jpg
